@@ -23,7 +23,7 @@ from src.map import Draw_Map
 if __name__ == '__main__':
     data_dir = 'data'
     log_dir = 'log'
-    picture_dir = 'picture_dir'
+    picture_dir = 'picture'
 
     Exist_or_Make_Dir(data_dir)
     Exist_or_Make_Dir(log_dir)
