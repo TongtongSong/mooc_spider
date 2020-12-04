@@ -1,0 +1,8 @@
+selenium
+Beautifulsoup4
+pandas
+openpyxl
+xlrd
+logging
+
+pyecharts
